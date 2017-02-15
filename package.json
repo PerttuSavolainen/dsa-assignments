@@ -1,0 +1,10 @@
+{
+  "name": "data structures and algorithms",
+  "version": "0.0.0",
+  "description": "Assignments",
+  "main": "server.js",
+  "repository": "",
+  "author": "Perttu Savolainen <savolainen.perttu@gmail.com>",
+  "dependencies": {
+  }
+}
